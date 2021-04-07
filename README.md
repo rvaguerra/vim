@@ -149,7 +149,9 @@ Modifica o conteúdo de uma palavra a partir do cursor.
 Modifica o conteúdo de uma palavra a partir do início dela.
 
 > `c` pode ser combinado com os comandos de movimentação.
+> 
 > Exemplo: `c$` modifica o conteúdo até o fim da linha.
+> 
 > Exemplo: `c0` modifica o conteúdo até o início da linha.
 
 `ciX`
