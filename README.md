@@ -58,7 +58,7 @@ Move para a base da tela.
 
 Move para o início da linha.
 
-`^` ou `\`
+`^` ou `_`
 
 Move para o primeiro símbolo não vazio da linha.
 
