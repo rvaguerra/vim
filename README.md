@@ -172,7 +172,7 @@ Refaz o último comando desfeito.
 
 Repete o último comando.
 
-## Copiar, recortar e Colar
+## Copiar, recortar e colar
 
 `yy` ou `Y`
 
