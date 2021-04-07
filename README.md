@@ -124,3 +124,45 @@ Insere uma nova linha acima.
 
 Sai do modo de edição.
 
+## Edição
+
+`r`
+
+Substitui um único símbolo.
+
+`cc`
+
+Deleta o conteúdo da linha e entra no modo de inserção.
+
+`C`
+
+Deleta o conteúdo da linha a partir do cursor e entra no modo inserção.
+
+`cw`
+
+Modifica o conteúdo de uma palavra a partir do cursor.
+
+`ciw`
+
+Modifica o conteúdo de uma palavra a partir do início dela.
+
+> `c` pode ser combinado com os comandos de movimentação.
+> Exemplo: `c$` modifica o conteúdo até o fim da linha.
+> Exemplo: `c0` modifica o conteúdo até o início da linha.
+
+`ciX`
+
+Modifica o conteúdo entre a abertura e o fechamento do símbolo X. Exemplo: `ci(`, `ci[`.
+
+`u`
+
+Desfaz o último comando.
+
+`ctrl + r`
+
+Refaz o último comando desfeito.
+
+`.`
+
+Repete o último comando.
+
