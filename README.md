@@ -172,3 +172,33 @@ Refaz o último comando desfeito.
 
 Repete o último comando.
 
+## Copiar, recortar e Colar
+
+`yy` ou `Y`
+
+Copia uma linha inteira.
+
+`dd`
+
+Recorta uma linha inteira.
+
+`D`
+
+Recorta até o fim da linha.
+
+`p`
+
+Cola após o cursor.
+
+`P`
+
+Cola antes do cursor.
+
+`x`
+
+Recorta um símbolo.
+
+> Os comandos y e d podem ser combinados com os comandos de movimentação.
+> 
+> Exemplos: dw; y$; d0.
+
