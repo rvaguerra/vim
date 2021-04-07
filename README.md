@@ -68,7 +68,9 @@ Move para o fim da linha.
 
 `%`
 
-Alterna entre a abertura do símbolo e seu fechamento. Exemplo: entre "_(_" e "_)_". Suportados: "()", "{}", "[]".
+Alterna entre a abertura do símbolo e seu fechamento.
+
+Exemplo: entre "_(_" e "_)_". Suportados: "()", "{}", "[]".
 
 `{`
 
@@ -152,7 +154,9 @@ Modifica o conteúdo de uma palavra a partir do início dela.
 
 `ciX`
 
-Modifica o conteúdo entre a abertura e o fechamento do símbolo X. Exemplo: `ci(`, `ci[`.
+Modifica o conteúdo entre a abertura e o fechamento do símbolo X. 
+
+Exemplo: `ci(`, `ci[`.
 
 `u`
 
