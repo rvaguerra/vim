@@ -94,3 +94,33 @@ Move para a linha X.
 
 Centraliza a tela na linha atual.
 
+## Inserção
+
+`i`
+
+Insere antes do cursor.
+
+`I`
+
+Insere no início da linha.
+
+`a`
+
+Insere depois do cursor.
+
+`A`
+
+Insere no fim da linha.
+
+`o`
+
+Insere uma nova linha abaixo.
+
+`O`
+
+Insere uma nova linha acima.
+
+`<esc>`
+
+Sai do modo de edição.
+
